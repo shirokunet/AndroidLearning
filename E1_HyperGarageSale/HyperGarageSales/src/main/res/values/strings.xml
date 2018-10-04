@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HyperGarageSale</string>
+    <string name="edit_title">Enter title of the item</string>
+    <string name="edit_price">Enter price</string>
+    <string name="edit_description">Enter description of the item</string>
+    <string name="button_send">Post</string>
+</resources>
